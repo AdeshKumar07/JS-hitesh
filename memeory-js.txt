@@ -1,0 +1,11 @@
+##primitive
+
+-Like our primitive datative are stored in stack 
+-when we are updating its value then its origianl value not affecting it create a copy of that var and perform changups 
+
+
+##Non primitive
+
+-In this case value stored in heap 
+-In this case we always play with original values 
+-Refrence is always same 
